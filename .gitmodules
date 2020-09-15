@@ -1,0 +1,9 @@
+[submodule "Week2/processing-fee-calculator"]
+	path = Week2/processing-fee-calculator
+	url = https://github.com/Ameykolhe/processing-fee-calculator.git
+[submodule "Week2/average-income-calculator"]
+	path = Week2/average-income-calculator
+	url = https://github.com/Ameykolhe/average-income-calculator.git
+[submodule "Week2/arithmetic-calculator-cli"]
+	path = Week2/arithmetic-calculator-cli
+	url = https://github.com/Ameykolhe/arithmetic-calculator-cli.git
