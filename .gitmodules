@@ -4,3 +4,9 @@
 [submodule "Week2/average-income-calculator"]
 	path = Week2/average-income-calculator
 	url = https://github.com/Ameykolhe/average-income-calculator.git
+[submodule "Week2/datetime-calculator-cli"]
+	path = Week2/datetime-calculator-cli
+	url = https://github.com/Ameykolhe/datetime-calculator-cli.git
+[submodule "Week2/datetime-calculator/datetime-calculator-rest"]
+	path = Week2/datetime-calculator/datetime-calculator-rest
+	url = https://github.com/Ameykolhe/datetime-calculator-rest.git
